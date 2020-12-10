@@ -1,30 +1,34 @@
 
 # Felipe Scrochio Custódio
 
-📨 Email: felipe.crochi@gmail.com
+[📨 Email ](mailto:felipe.crochi@gmail.com)
 
-🐙 Github: github.com/felipecustodio
+[🐙 Github ](github.com/felipecustodio)
 
-💼 LinkedIn: linkedin.com/in/fscustodio
+[💼 LinkedIn](linkedin.com/in/fscustodio)
 
+[📄 Resumé (PDF Version)](https://felipecustodio.github.io/resume/resume.pdf)
 
 # Education
 
-## 🎓 ICMC - University of São Paulo
+## [🎓 ICMC - University of São Paulo](https://www.icmc.usp.br/en/about)
 
 ### B.Sc. in Computer Science 
 
-**Mar. 2015 – Present**
+**Mar. 2015 – Dec. 2021**
+
+
+[Course Curriculum](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55041&codhab=0&tipo=N)
 
 
 # Experience
 
 
-## 🦝 Raccoon Marketing Digital
+## [🦝 Raccoon Marketing Digital](https://raccoon.ag/)
 
 ### Internship - Data Analyst / Data Engineer
 
-**Apr 2019 - Aug 2020 (1.5yrs)**
+**Apr 2019 - Aug 2020**
 
 📊 Developed dashboards and automated spreadsheets using Google Data Studio, Google Sheets and data pipelines connecting several marketing and analytics platforms to Data Lakes and performing analysis on Google BigQuery, to support daily operations and decision making in a fast-paced environment, working in multidisciplinary squads joined by hundreds of members from radically different teams such as Marketing, Sales, Design, Infrastructure, Front-end and
 Data Science.
@@ -41,9 +45,9 @@ Data Science.
 
 https://github.com/pirataspinhal
 
-**Feb 2016 - Present**
+**Feb. 2016 - Present**
 
-An interdisciplinary studies group on computer science, focusing on doing in-depth explorations of topics beyond those
+An interdisciplinary studies group on computer science, focusing on doing an in-depth exploration of topics beyond those
 already covered by the university courses, aiming for a more complete and cooperative learning experience.
 
 # Skills  Competencies
@@ -65,7 +69,7 @@ Facebook Ads), Data Visualization (p5.js, D3.js, Cytoscape, DataStudio, Power BI
 CMake), web technologies (NodeJS), Machine Learning and Data Mining (Weka, Runway)
 
 ##  🚦 Processes & Methodologies:
-* Agile: Spotify Squad Framework, usage of Kanban boards for task organizing
+* Agile: [Spotify Squad Framework](https://medium.com/pm101/spotify-squad-framework-part-i-8f74bcfcd761), Kanban
 
 ## 🗣 Languages:
 * Portuguese: Native.
