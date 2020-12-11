@@ -3,9 +3,9 @@
 
 [📨 Email ](mailto:felipe.crochi@gmail.com)
 
-[🐙 Github ](github.com/felipecustodio)
+[🐙 Github ](https://www.github.com/felipecustodio)
 
-[💼 LinkedIn](linkedin.com/in/fscustodio)
+[💼 LinkedIn](https://www.linkedin.com/in/fscustodio)
 
 [📄 Resumé (PDF Version)](https://felipecustodio.github.io/resume/resume.pdf)
 
