@@ -1,1 +1,1 @@
-pandoc resume.tex -s --mathjax -o resume.html
+pandoc resume.tex -s --mathjax -o docs/index.html
