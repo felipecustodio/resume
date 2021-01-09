@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,900;1,400&display=swap");
+
+body {
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-family: "Playfair Display", serif;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+}
+
+::selection {
+  background-color: #f8efd4;
+}
+
+h1 {
+  font-size: 36pt;
+}
+
+h1,
+h2 {
+  font-family: "Goudy Bookletter 1911", serif;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+a {
+  transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+h1:hover,
+h2:hover {
+  color: #edc988;
+}
+
+a:hover {
+  background-color: #f8efd4;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+ul {
+  list-style-type: "▧";
+  /* list-style-type: "❑"; */
+}
+
+li {
+  padding-left: 1em;
+  padding-top: 0.5em;
+}
