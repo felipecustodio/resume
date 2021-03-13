@@ -1,5 +1,7 @@
-# 💼 Résumé
+![](banner.png)
 
-My Résumé, in LaTeX, PDF and HTML.
+* LaTeX
+* PDF
+* HTML (hosted @ [Github Pages](https://felipecustodio.github.io/resume/))
 
-[Github Pages](https://felipecustodio.github.io/resume/)
+> Build on push powered by [vinay0410/tectonic-action](https://github.com/vinay0410/tectonic-action)
